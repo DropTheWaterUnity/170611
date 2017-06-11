@@ -92,7 +92,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>/Users/swucomputer/Desktop/170607/Drop_The_Water/Assets/Plugin/LitJson.dll</HintPath>
+ <HintPath>/Users/swucomputer/Desktop/170611/Drop_The_Water/Assets/Plugin/LitJson.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
